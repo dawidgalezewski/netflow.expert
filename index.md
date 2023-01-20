@@ -8,19 +8,19 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
+```Skills:
 Syntax highlighted code block
 
 # Header 1
 ## Header 2
 ### Header 3
 
+
 - Networking
 - Security
 - Data Backup
 
-1. Numbered
-2. List
+[ Contact me / Hire me ]
 
 **Bold** and _Italic_ and `Code` text
 
