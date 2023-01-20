@@ -8,7 +8,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Security
 - Data Backup
 
-[Contact me / Hire me] (https://github.com/dawidgalezewski/netflow.expert/settings/pages)
+[Contact me / Hire me](https://github.com/dawidgalezewski/netflow.expert/settings/pages)
 
 **Bold** and _Italic_ and `Code` text
 
