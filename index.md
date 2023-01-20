@@ -7,8 +7,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Linux administration
 - Security
 - Data Backup
+- Python / Ansible
 
-[Contact me / Hire me](https://github.com/dawidgalezewski/netflow.expert/settings/pages)
+[Contact me / Hire me](mailto:dawid.galezewski@netflow.expert)
 
 
 ### Jekyll Themes
